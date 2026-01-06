@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Pedro Almeida Lopes</h1>
 
-<p align="center">Desenvolvedor em formação | 18 anos | Estudante de Desenvolvimento de Sistemas</p>
+<p align="center">Desenvolvedor em formação | 19 anos | Estudante de Desenvolvimento de Sistemas</p>
 
 <h2>📌 Sobre mim</h2>
 <ul>
