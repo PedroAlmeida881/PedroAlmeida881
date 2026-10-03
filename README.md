@@ -1,34 +1,82 @@
-<h1 align="center">👋 Olá, eu sou o Pedro Almeida Lopes</h1>
+<div align="center">
 
-<p align="center">Desenvolvedor em formação | 19 anos | Estudante de Desenvolvimento de Sistemas</p>
+# 👋 Olá, eu sou Pedro Almeida Lopes
 
-<h2>📌 Sobre mim</h2>
-<ul>
-  <li>🎓 Atualmente estudando <strong>Desenvolvimento de Sistemas</strong> na <strong>Proz</strong> (curso de 2 anos).</li>
-  <li>📘 Já concluí toda a escolaridade e agora estou focado no mundo da tecnologia.</li>
-  <li>🚀 Meu objetivo é me tornar <strong>Engenheiro de Software</strong> ou atuar com <strong>Sistemas de Informação</strong>.</li>
-  <li>🌱 Estou apenas começando minha jornada, mas já tenho projetos em andamento e muitos pela frente.</li>
-</ul>
+### 💻 Desenvolvedor de Software em Formação
 
-<h2>💻 Tecnologias que estou aprendendo</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+**20 anos** • 🎓 Engenharia de Software • 💻 Técnico em Desenvolvimento de Sistemas
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+
+</div>
+
+---
+
+## 🚀 Sobre mim
+
+🎓 Atualmente estou **finalizando o curso Técnico em Desenvolvimento de Sistemas**, enquanto curso **Engenharia de Software na Anhanguera**.
+
+💻 Meu objetivo é transformar conhecimento em **software útil, organizado e bem estruturado**, sempre buscando evoluir como desenvolvedor.
+
+🧠 Tenho interesse principalmente em **desenvolvimento de sistemas, aplicações web, backend, bancos de dados e engenharia de software**.
+
+🌱 Estou no início da minha jornada profissional na tecnologia, construindo projetos, estudando novas ferramentas e colocando em prática tudo o que venho aprendendo.
+
+> 💡 Ainda estou construindo minha experiência, mas já estou construindo meu futuro na tecnologia.
+
+---
+
+## 🎓 Formação
+
+| Formação | Status |
+|---|---|
+| 🎓 **Engenharia de Software — Anhanguera** | 🟢 Cursando |
+| 💻 **Técnico em Desenvolvimento de Sistemas** | 🟡 Em conclusão |
+
+---
+
+## 🛠️ Tecnologias
+
+### 💻 Desenvolvimento
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,github" />
+
 </p>
 
-<h2>🌍 Conecte-se comigo</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pedroalopes0612@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/pedro_lopes0614/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+### 🗄️ Banco de Dados
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
 </p>
+
+### 🔧 Ferramentas
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=vscode,github,git" />
+
+</p>
+
+> 🚧 Estou constantemente expandindo minha stack conforme avanço nos estudos e projetos.
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+📌 Engenharia de Software
+📌 Desenvolvimento de Sistemas
+📌 Programação
+📌 Estrutura e organização de projetos
+📌 Banco de dados
+📌 Git e GitHub
+📌 Desenvolvimento Web
+📌 Boas práticas de programação
